@@ -32,4 +32,3 @@ Solved 250+ problems using Java.
 
 [LeetCode Profile](https://leetcode.com/u/kl2400032140/)
 
-[LeetCode Profile]()
