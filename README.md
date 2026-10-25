@@ -1,193 +1,269 @@
-# Vishwajeeth Shikari
+<!--
+  GitHub Profile README
+  Repository: vishwajeethshikari/vishwajeethshikari
+  Keep project descriptions, links, and achievement counts accurate.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1d4ed8,100:0891b2&text=Vishwajeeth%20Shikari&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=AI%20Engineering%20%7C%20Backend%20Development%20%7C%20Problem%20Solving&descSize=15&descAlignY=58" width="100%" alt="Vishwajeeth Shikari profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:0f172a,75:1d4ed8,100:06b6d4&text=VISHWAJEETH%20SHIKARI&fontColor=ffffff&fontSize=43&fontAlignY=37&desc=AI%20ENGINEERING%20%7C%20BACKEND%20DEVELOPMENT&descSize=17&descAlignY=58&animation=fadeIn" alt="Vishwajeeth Shikari — AI Engineering and Backend Development"/>
 
-**Computer Science Student | Aspiring AI Engineer | Backend Developer**
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Engineering+reliable+backend+systems;Exploring+LLMs%2C+RAG+%26+AI+agents;Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Learn.+Build.+Test.+Improve." alt="Animated introduction"/>
+</a>
 
-*Building practical software, exploring AI systems, and solving problems one project at a time.*
+<br/>
 
 <a href="https://github.com/vishwajeethshikari">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/vishwajeeth-shikari/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/kl2400032140/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-290%2B%20Solved-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vishwajeethshikari&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-## About Me
+---
 
-I'm a Computer Science student at **KL University** interested in building reliable backend systems and practical AI-powered applications.
+## `01` — About Me
 
-I enjoy understanding how software works end to end—from designing REST APIs and modelling relational data to connecting services and exploring LLM-based workflows.
+I'm a Computer Science student at **KL University**, focused on building practical software at the intersection of **AI engineering and backend development**.
 
-- **AI Engineering:** Exploring LLM applications, retrieval-augmented generation (RAG), and AI-agent workflows.
-- **Backend Development:** Building with Java, Spring Boot, Python, FastAPI, REST APIs, and PostgreSQL.
-- **Problem Solving:** Practising Data Structures and Algorithms in Java, with 290+ LeetCode problems solved as reported in my profile.
-- **Cloud & Databases:** Learning AWS, database performance, service communication, and deployment fundamentals.
-- **Collaboration:** Working with Git, GitHub, branches, and incremental project delivery.
+I enjoy turning ideas into working applications—from designing REST APIs and connecting services to exploring LLM-powered workflows and solving algorithmic problems.
 
-My focus is on learning through implementation, understanding engineering trade-offs, and building projects I can explain—not just showcase.
+```python
+class Vishwajeeth:
+    def __init__(self):
+        self.role = "Aspiring AI Engineer"
+        self.focus = ["AI Engineering", "Backend Development"]
+        self.languages = ["Java", "Python", "JavaScript", "SQL"]
+        self.current_interests = [
+            "LLM Applications",
+            "Retrieval-Augmented Generation",
+            "AI Agents",
+            "Scalable Backend Systems",
+        ]
 
-## Technical Skills
+    def philosophy(self):
+        return "Learn deeply. Build consistently. Improve continuously."
+```
+
+- **AI Engineering:** Exploring LLM applications, RAG, and AI-agent workflows.
+- **Backend Engineering:** Building with Java, Spring Boot, Python, FastAPI, and REST APIs.
+- **Databases:** Working with SQL, PostgreSQL, and relational data modelling.
+- **Problem Solving:** Practising DSA in Java with 290+ LeetCode problems solved, as previously recorded.
+- **Cloud & Systems:** Exploring AWS, microservices, database scaling, and application architecture.
+
+My goal is to build software that is useful, maintainable, testable, and easy to understand.
+
+## `02` — Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" alt="Java, Python, JavaScript, C, HTML and CSS"/>
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate,react" alt="Spring Boot, FastAPI, Hibernate and React"/>
+
+### Databases, Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,git,github,vscode" alt="PostgreSQL, MySQL, AWS, Docker, Git, GitHub and VS Code"/>
+
+</div>
+
+| Area | Technologies and focus |
+|---|---|
+| Languages | Java, Python, JavaScript, C, SQL |
+| Backend | Spring Boot, FastAPI, REST APIs, Spring Data JPA |
+| Databases | PostgreSQL, MySQL, relational modelling |
+| AI Engineering | LLM applications, RAG concepts, AI-agent workflows |
+| Cloud & Architecture | AWS fundamentals, microservices, Eureka, API Gateway |
+| Tools | Git, GitHub, Maven, VS Code, pgAdmin |
+| Frontend | HTML, CSS, JavaScript, React |
+
+<sub>My stack reflects a mix of practical project experience and technologies I am actively learning.</sub>
+
+## `03` — Featured Projects
+
+<div align="center">
+
+### Projects built around real engineering concepts
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" alt="Java, Python, JavaScript and C"/>
+<h3>🧠 EnterpriseOps AI</h3>
 
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate" alt="Spring, FastAPI and Hibernate"/>
+**AI-Assisted Business Operations**
 
-- REST API development
-- Spring Boot
-- Spring Data JPA
-- Service integration
-- Authentication fundamentals
+An evolving customer-support and order-operations application connecting a Python orchestration service with a Java business backend.
+
+**Engineering highlights**
+- FastAPI orchestration layer.
+- REST communication with Spring Boot.
+- Separation of orchestration and business operations.
+- Exploration of LLM-assisted workflows.
+
+**Stack**
+
+`Python` `FastAPI` `Java` `Spring Boot` `PostgreSQL`
+
+<a href="https://github.com/vishwajeethshikari/EnterpriseOps-Business">View Business Backend ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker" alt="PostgreSQL, MySQL, AWS and Docker"/>
+<h3>🚗 DriveEase Fleet Operations</h3>
 
-- SQL and relational modelling
-- PostgreSQL
-- AWS fundamentals
-- Database performance experiments
+**Microservices-Based Fleet System**
 
-### Frontend & Tools
-<img src="https://skillicons.dev/icons?i=react,html,css,git,github,vscode" alt="React, HTML, CSS, Git, GitHub and VS Code"/>
+A fleet operations project exploring independent vehicle and booking services and communication between distributed components.
+
+**Engineering highlights**
+- Service discovery using Eureka.
+- API Gateway routing.
+- Inter-service communication with OpenFeign.
+- JWT-based endpoint security.
+
+**Stack**
+
+`Java` `Spring Boot` `Spring Cloud` `PostgreSQL`
+
+<sub>Status: Development and integration in progress.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🗂️ Project Management SaaS</h3>
+
+**Team Collaboration Platform**
+
+A collaborative application designed to organise projects and progressively support task and team management.
+
+**Implemented backend capabilities**
+- Project CRUD endpoints.
+- PostgreSQL persistence with Spring Data JPA.
+- Request validation and error handling.
+- API documentation and integration work.
+
+**Stack**
+
+`Java` `Spring Boot` `PostgreSQL` `React`
+
+<a href="https://github.com/vishwajeethshikari/project-management-saas">View Repository ↗</a>
+
+<sub>Status: In development.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>☁️ Amazon Aurora Scaling</h3>
+
+**Cloud Database Experiment**
+
+An experiment exploring Aurora PostgreSQL Serverless capacity configuration, SQL workloads, and database resource monitoring.
+
+**Engineering highlights**
+- Serverless capacity configuration.
+- SQL test-data generation.
+- Database workload execution.
+- Resource utilisation monitoring.
+
+**Stack**
+
+`AWS` `Aurora PostgreSQL` `SQL` `pgAdmin`
 
 </td>
 </tr>
 </table>
 
-### AI Engineering — Current Learning Focus
-
-- Large Language Model (LLM) applications
-- Retrieval-Augmented Generation (RAG)
-- AI-agent architectures and tool calling
-- Python-based AI orchestration
-- Integrating AI components with backend services
-
-*Skills reflect a combination of hands-on implementation and ongoing learning.*
-
-## Featured Projects
-
-### 1. EnterpriseOps AI — AI-Assisted Business Operations
-
-An evolving customer-support and order-operations project that connects a Python orchestration layer with a Java business backend.
-
-**Engineering focus**
-- Python and FastAPI orchestration.
-- Communication with Spring Boot through REST APIs.
-- Separation of orchestration logic from business operations and data access.
-- Exploration of LLM-assisted analysis and AI workflows.
-
-**Tech stack:** Python · FastAPI · Java · Spring Boot · PostgreSQL
-
-[View Business Backend Repository](https://github.com/vishwajeethshikari/EnterpriseOps-Business)
-
-### 2. DriveEase Fleet Operations — Microservices
-
-A fleet-management project exploring how vehicle and booking capabilities can be separated into independently organised services.
-
-**Engineering focus**
-- Service discovery with Eureka.
-- API Gateway routing.
-- Service-to-service communication using OpenFeign.
-- JWT-based endpoint security.
-
-**Tech stack:** Java · Spring Boot · Spring Cloud · PostgreSQL
-
-*Project status: Development and integration in progress.*
-
-### 3. Project Management SaaS — Team Collaboration
-
-A collaborative project to build a workspace for organising projects and progressively adding team and task-management capabilities.
-
-**Implemented backend capabilities**
-- Project CRUD API endpoints.
-- PostgreSQL persistence with Spring Data JPA.
-- Request validation and error handling.
-- API documentation and backend integration work.
-
-**Tech stack:** Java · Spring Boot · Spring Data JPA · PostgreSQL · React
-
-[View Repository](https://github.com/vishwajeethshikari/project-management-saas)
-
-*Project status: In development.*
-
-### 4. Amazon Aurora Read Replica Auto Scaling
-
-A cloud database experiment focused on Aurora PostgreSQL Serverless capacity settings, SQL workload generation, and database monitoring.
-
-**Engineering focus**
-- Aurora Serverless capacity configuration.
-- Generating test records and database workloads.
-- Observing database resource utilisation.
-- Learning about database scaling and performance.
-
-**Tech stack:** AWS · Aurora PostgreSQL · SQL · pgAdmin
-
-## Problem Solving
-
-I practise Data Structures and Algorithms in Java to strengthen algorithmic reasoning, complexity analysis, and edge-case handling.
+## `04` — Problem Solving
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/290%2B-LeetCode%20Problems%20Solved-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="290 plus LeetCode problems solved"/>
+
+### Consistency over shortcuts.
+
+I use algorithmic practice to improve my ability to reason about complexity, edge cases, and efficient solutions.
+
+**Current practice areas**
+
+`Arrays` · `Strings` · `Hash Maps` · `Two Pointers` · `Sliding Window` · `Binary Search`
 
 <a href="https://leetcode.com/u/kl2400032140/">
-  <img src="https://img.shields.io/badge/LeetCode-290%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="290 plus LeetCode problems solved"/>
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-282828?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="View LeetCode profile"/>
 </a>
 
-[Visit my LeetCode profile](https://leetcode.com/u/kl2400032140/)
-
 </div>
 
-**Practice areas:** Arrays · Strings · Hash Maps · Two Pointers · Sliding Window · Binary Search
-
-## GitHub Activity
+## `05` — GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwajeethshikari&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics"/>
+<a href="https://github.com/vishwajeethshikari">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=vishwajeethshikari&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeethshikari&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used programming languages"/>
+<a href="https://github.com/vishwajeethshikari">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeethshikari&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used languages"/>
+</a>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=vishwajeethshikari&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<br/>
+
+<a href="https://github.com/vishwajeethshikari">
+<img width="75%" src="https://streak-stats.demolab.com?user=vishwajeethshikari&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
 
 </div>
 
-<sub>Statistics and activity cards are generated by external services and may occasionally be unavailable or delayed.</sub>
+<sub>These cards depend on external services. Availability, language rankings, and statistics may vary or be delayed.</sub>
 
-## Current Focus
+## `06` — What I'm Working Toward
 
-- **AI Engineering:** Build practical LLM applications and learn retrieval, tool calling, and agent workflows.
-- **Backend Engineering:** Improve API design, database integration, testing, and application security.
-- **Cloud & Systems:** Strengthen AWS, database design, and service-architecture fundamentals.
-- **DSA:** Continue solving problems consistently and revisiting important algorithmic patterns.
-- **Project Development:** Turn learning into working, documented, and testable applications.
+- **AI Engineering:** Build practical applications with LLMs, retrieval, tool calling, and agent workflows.
+- **Backend Development:** Improve API design, persistence, testing, validation, and security.
+- **System Design:** Understand service boundaries, communication, and database trade-offs.
+- **Cloud Engineering:** Strengthen AWS and database infrastructure fundamentals.
+- **Problem Solving:** Continue practising DSA and improve the clarity and correctness of my solutions.
 
-## Let's Connect
+I value understanding the fundamentals behind a technology rather than simply collecting tools.
 
-I'm happy to connect with students, developers, recruiters, and engineers interested in AI applications, backend development, cloud systems, and collaborative software.
+## `07` — Let's Connect
 
-<a href="https://github.com/vishwajeethshikari">GitHub</a> ·
-<a href="https://www.linkedin.com/in/vishwajeeth-shikari/">LinkedIn</a> ·
-<a href="https://leetcode.com/u/kl2400032140/">LeetCode</a>
+Interested in AI applications, backend engineering, cloud systems, or collaborative software development? Let's connect.
 
 <div align="center">
 
-*Learn consistently. Build intentionally. Improve every iteration.*
+<a href="https://github.com/vishwajeethshikari">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/vishwajeeth-shikari/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/kl2400032140/">
+<img src="https://img.shields.io/badge/LeetCode-Follow%20My%20Progress-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0f172a,50:1d4ed8,100:0891b2" width="100%" alt="Decorative footer"/>
+<br/><br/>
+
+**Learn consistently. Build intentionally. Improve every iteration.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:020617,40:0f172a,75:1d4ed8,100:06b6d4" alt="Profile footer"/>
 
 </div>
